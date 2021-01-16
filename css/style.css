@@ -1,0 +1,28 @@
+.main{
+    background-color: #ffebee;
+}
+body{
+    
+    background-color: #e6e6e6;
+}
+.container-categories{
+    background-color: #ffebee;
+}
+  
+
+.navbar-brand img{
+    width: 40%;
+}
+.btn-secondary{
+    background-color: rgb(84, 122, 7);
+    color: white;
+   padding-inline-start: 20px;
+  
+}
+.btn-custom{
+    height: 20px;
+}
+.jacket-card-footer{
+    border: 0;
+    background-color: white;
+}
